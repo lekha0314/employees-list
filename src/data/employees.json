@@ -1,0 +1,26 @@
+[
+    {
+        "firstName" : "John",
+        "lastName" : "Doe",
+        "salary": 75000,
+        "id": 1
+    },
+    {
+        "firstName" : "Mary",
+        "lastName" : "Doe",
+        "salary": 60000,
+        "id": 2
+    },
+    {
+        "firstName" : "David",
+        "lastName" : "wolf",
+        "salary": 84000,
+        "id": 3
+    },
+    {
+        "firstName" : "James",
+        "lastName" : "Cameroon",
+        "salary": 120000,
+        "id": 4
+    }
+]

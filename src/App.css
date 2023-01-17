@@ -1,0 +1,29 @@
+.App {
+  margin: 40px;
+}
+
+.field {
+  margin: 10px 0px;
+}
+
+.employee-table {
+  margin-top: 20px;
+}
+
+.employee-table,
+thead,
+th,
+tr,
+td {
+  border: 1px solid #000000;
+  border-collapse: collapse;
+}
+
+td,
+th {
+  padding: 5px;
+}
+
+.cta-button {
+  margin: 0px 10px;
+}
